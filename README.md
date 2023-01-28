@@ -1,6 +1,6 @@
 # ISNA_Cronanews
 
-##Context
+## Context
 
 The dataset contains more than 1500 articles about the status of the spread of the Coronavirus in Iran, published by the Iranian Students News Agency (ISNA). The articles are crawled from the website of the agency ("Corona in Iran" section which contains more than 100 pages) on November 10th, 2021. All of the articles are in Persian language which is the main spoken language in Iran.
 Content
